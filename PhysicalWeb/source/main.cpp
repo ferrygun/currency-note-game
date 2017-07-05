@@ -2,7 +2,7 @@
 
 MicroBit uBit;
 
-char URL[] = "https://goo.gl/gVTexW"; //Change this with your shorten URL
+char URL[] = "https://goo.gl/sGtcjT"; //Change this with your shorten URL
 const int8_t CALIBRATED_POWERS[] = {-49, -37, -33, -28, -25, -20, -15, -10};
 
 uint8_t advertising = 0;
